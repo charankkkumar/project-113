@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to  right top, #5da1d6, #1fdb8d, #bebc33, #e06a1a, #006494);
+    }
+    h3
+    {
+        width:80%;
+        font-size: 22px;
+        font-weight: bold;
+        font-family: 'Rajdhani', sans-serif;
+    }
+    .name_of_objects
+    {
+       font-size:15px;
+       color:rgb(0, 0, 255);
+    }
+    #camera
+     { border: 2px dashed black; width: 350px; height: 300px; }
